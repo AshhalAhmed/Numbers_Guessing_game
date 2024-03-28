@@ -1,0 +1,20 @@
+{
+  "name": "numbers_guessing_game",
+  "version": "1.0.2",
+  "description": "",
+  "main": "numberguess.js",
+  "type": "module",
+  "bin": "numberguess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "numbers_guessing_game": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
